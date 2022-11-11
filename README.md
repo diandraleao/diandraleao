@@ -4,13 +4,13 @@
 [//]: <> (Eu trabalho com desenvolvimento front-end há 6 anos. Já atuei como back-end em alguns momentos, também sou entusiasta de ux/ui design.
 Minhas principais experiencias foram com e-commerce de vários segmentos e diversos públicos.)
 
-- 💻 My specialty is JavaScript.
+- 💻 My specialty is JavaScript
 - ⚡️ I'm continually improving on React.js
 - 🎨 I'm also a UI/UX enthusiast
 - 📚 In my spare time you find me studying Philosophy (I love Hindu Philosophy!)
 
 <br /><br />
-![Stats](https://github-readme-stats.vercel.app/api?username=diandraleao&count_private=true&show_icons=true&theme=dracula)
+![Stats](https://github-readme-stats.vercel.app/api?username=diandraleao&count_private=true&show_icons=true&theme=buefy)
 <br /><br />
 
 ## Get in touch! 🤝
