@@ -8,9 +8,12 @@ Minhas principais experiencias foram com e-commerce de vários segmentos e diver
 - ⚡️ I'm continually improving on React.js
 - 🎨 I'm also a UI/UX enthusiast
 - 📚 In my spare time you find me studying Philosophy (I love Hindu Philosophy!)
+<br />
 
-<br /><br />
+## GitHub Analytics
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=diandraleao&count_private=true&show_icons=true&theme=buefy)
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=diandraleao&theme=buefy&layout=compact&langs_count=10&hide=apacheconf)
 <br /><br />
 
 ## Get in touch! 🤝
