@@ -20,7 +20,7 @@ Minhas principais experiencias foram com e-commerce de vários segmentos e diver
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=whitee&link=https://www.linkedin.com/in/diandraleao//)](https://www.linkedin.com/in/diandraleao/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/diandraleao)](https://github.com/diandraleao)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leao.diandra@gmail.com)](mailto:leao.diandra@gmail.com)
+<!--[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leao.diandra@gmail.com)](mailto:leao.diandra@gmail.com)-->
 [![Goodreads Badge](https://img.shields.io/badge/Goodreads-372213?style=flat-square&logo=goodreads&logoColor=white&link=https://www.goodreads.com/user/show/123421801-diandra)](https://www.goodreads.com/user/show/123421801-diandra)
 
 <i> see ya! </i>
