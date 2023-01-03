@@ -16,7 +16,7 @@ Minhas principais experiencias foram com e-commerce de vários segmentos e diver
 ![Stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=diandraleao&theme=buefy&layout=compact&langs_count=10&hide=apacheconf)
 <br /><br />
 
-## Get in touch! 🤝
+## Social 🤝
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=whitee&link=https://www.linkedin.com/in/diandraleao//)](https://www.linkedin.com/in/diandraleao/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/diandraleao)](https://github.com/diandraleao)
